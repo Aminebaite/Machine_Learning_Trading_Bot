@@ -13,9 +13,10 @@ In a Project, we’ll do the following:
     -Train a new machine learning model and compare its performance to that of a baseline model.
     
     
-## Technologies : This project leverages Anaconda and Jupyterlab with Python 3.7:
+## Technologies : 
+This project leverages Anaconda and Jupyterlab with Python 3.7:
 
-## Technologies : This project leverages Anaconda and Jupyterlab with Python 3.7:
+
 
 We need also to import the following libraries and dependencies :
 ```
